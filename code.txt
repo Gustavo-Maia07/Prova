@@ -1,0 +1,115 @@
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-xxl">
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-link" href="#">Produtos</a>
+                <a class="nav-link" href="#">Notícias</a>
+                <a class="nav-link" href="#">Politíca</a>
+                <a class="nav-link" href="#">Carros</a>
+                <a class="nav-link" href="#">Econômia</a>
+                <a class="nav-link" href="#">Folha</a>
+                <a class="nav-link" href="#">Esporte</a>
+                <a class="nav-link" href="#">Splash</a>
+                <a class="nav-link" href="#">Universa</a>
+                <a class="nav-link" href="#">VivaBem</a>
+                <a class="nav-link" href="#">Tilt</a>
+                <a class="nav-link" href="#">Ecoa</a>
+                <a class="nav-link" href="#">Canal Uol</a>
+                <a class="nav-link" href="#">Mov</a>
+                <a class="nav-link" href="#">Nossa</a>
+                <a class="nav-link" href="#">Tab</a>
+                <a class="nav-link" href="#">Uol Prime</a>
+                <a class="nav-link" href="#">Guia de Compra</a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<footer class="footer fixed-bottom mb-2" style="background-color: #6f42c1; color: #7d9cbe" >
+    <div class="container-xxl mt-4" >
+        <div class="row">
+            <div class="col-3">
+                <h5 class="mb-4" style="color: white">CVC Brasil</h5>
+                <p style="color: white">
+                    <div class="mb-2 small">Sobre nós</div>
+                    <div class="mb-2 small">Sala de Imprensa</div>
+                    <div class="mb-2 small">Trabalhe Conosco - Matriz CVC</div>
+                    <div class="mb-2 small">Trabalhe Conosco - Lojas CVC</div>
+                    <div class="mb-2 small">Seja um Franqueado</div>
+                    <div class="mb-2 small">Promoções</div>
+            </div>
+            <div class="col-3">
+                <h5 class="mb-4" style="color: white">Centrais de Atendimento</h5>
+                    <div class="mb-2 small">Suporte Pós Venda 11 3003 9282</div>
+                    <div class="mb-2 small">Segunda à Sexta: 09h às 20h</div>
+                    <div class="mb-2 small">Sábado e Feriados Nacionais: 09h às 16h</div>
+                    <div class="mb-2 small">Informações COVID-19</div>
+                    <div class="mb-2 small">Remarcações de viagens</div>
+                    <div class="mb-2 small">SAC 11 3003 9282</div>
+                    <div class="mb-2 small">Central de Ajuda</div>
+            </div>
+            <div class="col-3">
+                <h5 class="mb-4" style="color: white">Termos</h5>
+                <div class="mb-2 small">Condições de uso do site</div>
+                <div class="mb-2 small">Condições Gerais</div>
+                <div class="mb-2 small">Politica de privacidade</div>
+                <div class="mb-2 small">Código de Conduta Ética</div>
+                <div class="mb-2 small">Termos de Uso Clube CVC</div>
+                <div class="mb-2 small">Termos de Uso Clube CVC Super</div>
+            </div>
+            <div class="col" style="text-align: right">
+
+                <img src="img/cvc_logo.png" alt="logo_cvc" width="10%"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-3">
+
+            </div>
+            <div class="col">
+
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+cop:
+Clube UOL
+UOL Resolve
+UOL Sexo
+UOL Wi-Fi
+Assistência técnica
+Curso de inglês
+Cursos online
+UOL Afiliados
+
+cop:
+Anuncie no UOL
+Cloud Computing
+Conecte
+Crie seu blog
+Crie seu site
+Crie sua loja virtual
+Dicas para o seu negócio
+
+
+Email marketing
+Email profissional
+Hospedagem
+Moderninha
+PagBank
+Registre um domínio
+Vende Fácil
+
+cop:
+UOL Notícias
+Placar UOL
+VivaBem
+Splash
+Universa
+Nossa
+UOL Cotações
+Bate-Papo UOL
+UOL Mail
+Meu UOL

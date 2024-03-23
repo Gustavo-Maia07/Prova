@@ -144,23 +144,8 @@
                     </button>
                 </div>
             </div>
-        <div>
-            <br>
-            <div class="row">
-                <div class="col-2"  style="justify-content: left">
-                    <img src="img/oul_logo.png" alt="logo_oul" width="30%"/></div>
-                <div class="col-6" style="justify-content: left">
-                    <div class="mb-2 small">1996-2024 UOL - Universo Online. Todos os direitos reservados. Segurança e privacidade</div>
-                </div>
-                <div class="col-2" style="justify-content: right">
-                    <button type="button" class="btn btn-danger">Comunicar Erro</button>
-                </div>
-                <div class="col-1" style="justify-content: right">
-                    <button type="button" class="btn btn-close-white" style="color: #5c636a">ERRATAS></button>
-                </div>
-            </div>
         </div>
-        </div>
+    </div>
 </footer>
 <script src="js/popper.js"></script>
 <script src="js/bootstrap.js"></script>
